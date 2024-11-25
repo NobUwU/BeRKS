@@ -56,7 +56,7 @@
     "js-yaml": "^4.1.0",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
-    "prismarine-nbt": "^1.5.0",
+    "prismarine-nbt": "^2.2.1",
     "protodef": "^1.14.0",
     "raknet-native": "^1.0.6",
     "uuid": "^8.3.2",
